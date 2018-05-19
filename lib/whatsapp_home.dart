@@ -8,6 +8,12 @@ class WhatsAppHome extends StatefulWidget{
 class _WhatsAppHomeState extends State<WhatsAppHome>{
   @override
   Widget build(BuildContext context){
-    return new Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("WhatsApp"),
+        elevation: 0.7,
+
+      ),
+    );
   }
 }
