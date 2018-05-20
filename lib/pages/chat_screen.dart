@@ -47,26 +47,14 @@ class _ChatScreenState extends State<ChatScreen> {
 List<ChatModel> dummyData = [
   ChatModel(
       name: "Nelson Minaya",
-      message: "Message string text",
+      message: "WhatsApp Layout made on Flutter example",
       time: "9:40 PM",
       avatarUrl: "https://avatars0.githubusercontent.com/u/7952888?s=400&v=4"
   ),
   ChatModel(
-      name: "Nelson Minaya",
-      message: "Message string text",
-      time: "9:40 PM",
-      avatarUrl: "https://avatars0.githubusercontent.com/u/7952888?s=400&v=4"
-  ),
-  ChatModel(
-      name: "Nelson Minaya",
-      message: "Message string text",
-      time: "9:40 PM",
-      avatarUrl: "https://avatars0.githubusercontent.com/u/7952888?s=400&v=4"
-  ),
-  ChatModel(
-      name: "Nelson Minaya",
-      message: "Message string text",
-      time: "9:40 PM",
-      avatarUrl: "https://avatars0.githubusercontent.com/u/7952888?s=400&v=4"
-  ),
+      name: "Jhon Doe",
+      message: "Message string text example",
+      time: "9:55 PM",
+      avatarUrl: "https://pbs.twimg.com/profile_images/378800000099157593/d4084a181e9382e070783858c0ccafd8_400x400.jpeg"
+  )
 ];
